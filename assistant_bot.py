@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-assistant_bot.py — Telegram-бот «Персональный ассистент»
-Финальная версия без блока прогноза погоды.
-"""
-
 import logging
 import requests
 import xml.etree.ElementTree as ET
